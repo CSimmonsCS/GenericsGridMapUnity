@@ -1,0 +1,2 @@
+# GenericsGridMapUnity
+This project uses C# and Unity to build upon the GridMap from my previous repository to be able to take Generics (any data type object, not just 'int' or 'bool').  The example to show that a generic object can be used on the grid has the User inputting 'A', 'B', 'C', '1', '2', or '3' and each corresponding key will be placed where the mouse is hovering over.  A class was instantiated that holds private strings, ints, &amp; functions to prove the generic portion of the grid map.
